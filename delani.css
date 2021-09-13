@@ -3,16 +3,16 @@ body{
   font-size: large;
 }
 .header{
-  background-image: url(images/Backgrounds/h_img.jpg);
+  background-image: url(images/backgrounds/h_img.jpg);
   background-size: cover;
   padding-top: 100px;
   padding-bottom: 20px;
   color: aliceblue;
-  height: 500px;
+  height: 600px;
 }
 
 .services{
-  background-image: url(images/Backgrounds/s_image.jpg);
+  background-image: url(images/backgrounds/s_image.jpg);
   background-size: cover;
   padding: 50px;
   color: aliceblue;
@@ -23,8 +23,13 @@ body{
 
 
 .contact-us{
-background-image: url(images/Backgrounds/c_image\ 1.jpg);
+background-image: url(images/backgrounds/c_image.jpg);
 margin-top: 20px;
 width: 100%;
 color: aliceblue;
+height: 500px;
+padding: 60px;
+}
+.social{
+  margin-top: 20px;
 }
