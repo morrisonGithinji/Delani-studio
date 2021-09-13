@@ -20,3 +20,11 @@ body{
 .container{
   font-size: medium;
 }
+
+
+.contact-us{
+background-image: url(images/Backgrounds/c_image\ 1.jpg);
+margin-top: 20px;
+width: 100%;
+color: aliceblue;
+}
