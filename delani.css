@@ -5,5 +5,11 @@ body{
 .header{
   background-image: url(images/Backgrounds/h_img.jpg);
   background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  color: aliceblue;
+  height: 500px;
+  
+
   
 }
