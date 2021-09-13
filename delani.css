@@ -9,7 +9,11 @@ body{
   padding-bottom: 20px;
   color: aliceblue;
   height: 500px;
-  
+}
 
-  
+.services{
+  background-image: url(images/Backgrounds/s_image.jpg);
+  background-size: cover;
+  padding: 50px;
+  color: aliceblue;
 }
