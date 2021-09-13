@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  font-size: large;
+}
+.header{
+  background-image: url(images/Backgrounds/h_img.jpg);
+  background-size: cover;
+  
+}
