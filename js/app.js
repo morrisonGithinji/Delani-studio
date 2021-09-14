@@ -35,7 +35,8 @@ $(document).ready(function(){
 
   $("#form").submit(function (e) {
     e.preventDefault();
-    alert("we have received your message. Thank you for reaching out to us.");
+   var user=$("input#name").val();
+   alert(user+" we have received your message. Thank you for reaching out to us.");
   });
 }
 )
