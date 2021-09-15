@@ -8,6 +8,7 @@ Student Moringa
 Browser to enter and enter details.
 # BDD
 This webpage shows the functions of the studio and also the portfolio
+Good internet connection
 # Technologies used
 Javascript
 Html
