@@ -88,15 +88,23 @@ $("#restuarant").hover(function () {
 function(){
     $("#restaurant-txt").hide();
 })
-  
- 
 
   $("#form").submit(function (e) {
     e.preventDefault();
    var user=$("input#name").val();
-   alert(user+" we have received your message. Thank you for reaching out to us.");
+   var email=$("input#email").val();
+   var text =$("#message").val
+
+   if(!user||!email){
+     alert("please enter name and email!");
+   }
+   else
+     {
+     alert(user+" we have received your message. Thank you for reaching out to us.");
+   }
+   
+  
   });
 
-
-
 });
+
