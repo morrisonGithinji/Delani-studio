@@ -100,7 +100,7 @@ function(){
    }
    else
      {
-     alert(user+" we have received your message. Thank you for reaching out to us.");
+     alert(user+", we have received your message. Thank you for reaching out to us.");
    }
    
   
