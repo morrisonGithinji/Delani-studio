@@ -37,34 +37,42 @@ padding: 60px;
 
 #tuesday:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #security:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #prism:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #hollywood:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #motivation:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #music:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #art:hover{
   opacity: 0.5;
+  text-align: center;
 }
 
 #restuarant:hover{
   opacity: 0.5;
+  text-align: center;
 }
 #hide{
   display: none;
@@ -104,5 +112,8 @@ padding: 60px;
 }
  .port{
    height: 250px;
+ }
+ em{
+   color: blue;
  }
 
