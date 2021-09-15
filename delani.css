@@ -33,3 +33,36 @@ padding: 60px;
 .social{
   margin-top: 20px;
 }
+
+
+#tuesday:hover{
+  opacity: 0.5;
+}
+
+#security:hover{
+  opacity: 0.5;
+}
+
+#prism:hover{
+  opacity: 0.5;
+}
+
+#hollywood:hover{
+  opacity: 0.5;
+}
+
+#motivation:hover{
+  opacity: 0.5;
+}
+
+#music:hover{
+  opacity: 0.5;
+}
+
+#art:hover{
+  opacity: 0.5;
+}
+
+#restuarant:hover{
+  opacity: 0.5;
+}
