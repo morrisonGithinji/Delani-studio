@@ -69,3 +69,40 @@ padding: 60px;
 #hide{
   display: none;
 }
+
+#tuesday{
+ background-image: url(images/portfolio/work.jpg);
+ margin: auto;
+}
+#security{
+  background-image: url(images/portfolio/work3.jpg);
+  margin: auto;
+}
+#prism{
+  background-image: url(images/portfolio/work2.jpg);
+  margin: auto;
+}
+#hollywood{
+  background-image: url(images/portfolio/work1.jpg);
+  margin: auto;
+}
+#motivation{
+  background-image: url(images/portfolio/work5.jpg);
+  margin: auto;
+}
+#music{
+  background-image: url(images/portfolio/work6.jpg);
+  margin: auto;
+}
+#art{
+  background-image: url(images/portfolio/work7.jpg);
+  margin: auto;
+}
+#restuarant{
+  background-image: url(images/portfolio/work2.jpg);
+  margin: auto;
+}
+ .port{
+   height: 250px;
+ }
+
