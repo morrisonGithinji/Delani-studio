@@ -1,6 +1,6 @@
 # Delani-studio
 # Description
-This is a school project for a landing page for a fictional studio.
+This is a school project for a landing page for a fictional studio,that shows the work they do and the portfolio
 # Author information.
 Morrison NJenga
 Student Moringa
