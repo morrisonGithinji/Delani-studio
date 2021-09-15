@@ -31,6 +31,63 @@ $(document).ready(function(){
     })
   }
   )
+
+$("#tuesday").hover(function () {
+  $("#blm-txt").show();
+},
+function(){
+  $("#blm-txt").hide();
+});
+
+$("#security").hover(function () {
+  $("#security-txt").show();
+},
+function(){
+    $("#security-txt").hide();
+})
+
+$("#Prism").hover(function () {
+  $("#prism-txt").show();
+},
+function(){
+    $("#prism-txt").hide();
+})
+
+
+$("#hollywood").hover(function () {
+  $("#hollywood-txt").show();
+},
+function(){
+    $("#hollywood-txt").hide();
+})
+
+$("#music").hover(function () {
+  $("#music-txt").show();
+},
+function(){
+    $("#music-txt").hide();
+})
+
+$("#motivation").hover(function () {
+  $("#daily-txt").show();
+},
+function(){
+    $("#daily-txt").hide();
+})
+
+$("#art").hover(function () {
+  $("#art-txt").show();
+},
+function(){
+    $("#art-txt").hide();
+})
+
+$("#restuarant").hover(function () {
+  $("#restaurant-txt").show();
+},
+function(){
+    $("#restaurant-txt").hide();
+})
   
  
 
@@ -40,5 +97,6 @@ $(document).ready(function(){
    alert(user+" we have received your message. Thank you for reaching out to us.");
   });
 
-});
 
+
+});

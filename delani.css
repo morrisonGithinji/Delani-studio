@@ -66,3 +66,6 @@ padding: 60px;
 #restuarant:hover{
   opacity: 0.5;
 }
+#hide{
+  display: none;
+}
