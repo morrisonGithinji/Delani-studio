@@ -13,7 +13,8 @@ Javascript
 Html
 Css
 JQuery
-#Contact information
+# Contact Information
 morrison.njenga@student.moringaschool.com
-#licences
+# licences
+Mit
 copyright Morrison Njenga 
