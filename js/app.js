@@ -32,11 +32,13 @@ $(document).ready(function(){
   }
   )
   
+ 
 
   $("#form").submit(function (e) {
     e.preventDefault();
    var user=$("input#name").val();
    alert(user+" we have received your message. Thank you for reaching out to us.");
   });
-}
-)
+
+});
+
