@@ -96,7 +96,7 @@ function(){
    var text =$("#message").val
 
    if(!user||!email){
-     alert("please enter name and email!");
+     alert("please enter valid name and email!");
    }
    else
      {
